@@ -2,15 +2,15 @@
 Engineering manager resources, a curated list of articles, books, frameworks, newsletters, podcasts, courses.
 
 ## Table of Contents
-- [Books](#books)
-- [Frameworks](#frameworks)
-- [Articles](#articles)
-- [Podcasts](#podcasts)
-- [Newsletters](#newsletters)
-- [Courses](#courses)
-- [Tools](#tools)
+- [📚 Books](#-books)
+- [🧰 Frameworks](#-frameworks)
+- [📰 Articles](#-articles)
+- [🎧 Podcasts](#-podcasts)
+- [📬 Newsletters](#-newsletters)
+- [🏫 Courses](#-courses)
+- [⚙️ Tools](#%EF%B8%8F-tools)
 
-# Books
+# 📚 Books
 - [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.amazon.ca/Effective-Executive-Definitive-Getting-Things/dp/0060833459) by Peter Drucker
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.ca/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/) by Camille Fournier
 - [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.ca/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X/) by Marty Cagan and Chris Jones
@@ -24,12 +24,12 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.ca/Coaching-Habit-Less-Change-Forever/dp/0978440749/) by Michael Bungay Stanier
 - [Become an Effective Software Engineering Manager](https://www.oreilly.com/library/view/become-an-effective/9781680507867/) by Dr. James Stanier
 
-# Frameworks
+# 🧰 Frameworks
 - [Engineering career ladders](https://www.engineeringladders.com/)
 - [DORA software delivery performance metrics](https://dora.dev/guides/dora-metrics/)
 - [Shape Up](https://basecamp.com/shapeup)
 
-# Articles
+# 📰 Articles
 - [8 Alternatives to the STAR Method](https://www.evidenced.app/blog/8-alternatives-to-star-method), alternatives to STAR method (CAR, SOAR, PARLA, FAB, SAO, SHARE, DARE, CAPS)
 - [Is the 9-Box Model a Successful Performance Management Tool?](https://www.bamboohr.com/blog/9-box-grid): describes how to create a 9-box grid
 - [9 Box Grid: What Is It And Why Is It Outdated?](https://www.staffcircle.com/blogs/9-box-grid/)
@@ -40,7 +40,7 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [4 Key Managerial Activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/)
 - [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
 
-# Podcasts
+# 🎧 Podcasts
 - [Effective Engineering Manager](https://www.effectiveem.com/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Scaling Software Teams](https://software.fireside.fm/)
@@ -49,11 +49,11 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 - [Dev Interrupted](https://linearb.io/dev-interrupted/podcasts)
 
-# Newsletters
+# 📬 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/issues/)
 - [The Engineering Manager](https://theengineeringmanager.substack.com/)
 
-# Courses
+# 🏫 Courses
 - [Strategic Management Concepts for New Managers](https://www.pluralsight.com/courses/strategic-management-concepts-new-managers)
 - [Engineering Management: The Foundations of Technical Leadership](https://www.oreilly.com/videos/engineering-management-the/0636920950417/), covers purposeful leadership, time management and prioritization, effective feedback, career conversations, and team metrics
 - [Managing Remote Teams](https://www.pluralsight.com/courses/managing-virtual-teams)
@@ -64,7 +64,7 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Foundations of Effective Project Management](https://www.pluralsight.com/courses/foundations-effective-project-management)
 - [roadmap.sh - Engineering Manager](https://roadmap.sh/engineering-manager): roadmap of knowledge for engineering managers covers team development, leadership skills, strategic thinking, incident response, organizational change
 
-# Tools
+# ⚙️ Tools
 - [Lattice](https://lattice.com/): 1:1s, performance reviews, goals and OKRs
 - [Workleap Performance](https://workleap.com/performance): performance reviews with 360 feedback, goal setting
 - [PerformYard](https://www.performyard.com/): reviews and check-ins, goal management, continous 1:1 and team feedback
