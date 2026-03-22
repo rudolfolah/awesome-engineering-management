@@ -17,32 +17,43 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.ca/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X/) by Marty Cagan and Chris Jones
 - [How to Wow: Proven Strategies for Presenting Your Ideas, Persuading Your Audience, and Perfecting Your Image](https://www.amazon.ca/How-Wow-Strategies-Presenting-Persuading/dp/0345501780/) by Frances Cole Jones
 - [The Engineering Leader: Strategies for Scaling Teams and Yourself](https://cate.blog/book/) by Cate Huston
+- [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/) by Patrick Lencioni
 - [Team Topologies: Organizing Business and Technology for Fast Flow of Value](https://www.amazon.ca/Team-Topologies-2nd-Organizing-Technology/dp/1966280009/) by Matthew Skelton and Manuel Pais
 - [Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://www.amazon.ca/Remote-Team-Interactions-Workbook-Topologies/dp/1950508617/) by Matthew Skelton and Manuel Pais
 - [Leading Effective Engineering Teams](https://www.oreilly.com/library/view/leading-effective-engineering/9781098148232/) by Addy Osmani
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.ca/Making-Manager-What-Everyone-Looks/dp/0593852788/) by Julie Zhuo
 - [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/) by Andrew S. Grove
+- [Accelerate: The Science of Lean Software and DevOps Building and Scaling High Performing Technology Organizations](https://dl.acm.org/doi/10.5555/3235404) by Nicole Forsgren, Jez Humble, and Gene Kim
+- [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://www.amazon.ca/Project-Product-Survive-Disruption-Framework/dp/1942788398) by Mik Kersten
 - [The Art of Leadership: Small Things, Done Well](https://www.amazon.ca/Art-Leadership-Small-Things-Done/dp/1492045691/) by Michael Lopp
+- [Resilient Management](https://resilient-management.com/) by Lara Hogan
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.ca/Coaching-Habit-Less-Change-Forever/dp/0978440749/) by Michael Bungay Stanier
+- [The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.ca/First-Days-Updated-Expanded-Strategies/dp/1422188612) by Michael D. Watkins
 - [Become an Effective Software Engineering Manager](https://www.oreilly.com/library/view/become-an-effective/9781680507867/) by Dr. James Stanier
+- [An Elegant Puzzle: Systems of Engineering Management](https://press.stripe.com/an-elegant-puzzle) by Will Larson
+- [97 Things Every Engineering Manager Should Know](https://www.oreilly.com/library/view/97-things-every/9781492050896/) by Camille Fournier
 
 # 🧰 Frameworks
 - [Engineering career ladders](https://www.engineeringladders.com/)
 - [DORA software delivery performance metrics](https://dora.dev/guides/dora-metrics/)
 - [Shape Up](https://basecamp.com/shapeup)
+- [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+- [Growth frameworks, progression, and competency matrix of various companies](https://progression.fyi/)
 
 # 📰 Articles
 - [8 Alternatives to the STAR Method](https://www.evidenced.app/blog/8-alternatives-to-star-method), alternatives to STAR method (CAR, SOAR, PARLA, FAB, SAO, SHARE, DARE, CAPS)
 - [Is the 9-Box Model a Successful Performance Management Tool?](https://www.bamboohr.com/blog/9-box-grid): describes how to create a 9-box grid
 - [9 Box Grid: What Is It And Why Is It Outdated?](https://www.staffcircle.com/blogs/9-box-grid/)
 - [Set goals with OKRs (Objectives and Key Results)](https://rework.withgoogle.com/intl/en/guides/set-goals-with-okrs)
-- [How to use value stream mapping to improve software delivery](https://dora.dev/guides/value-stream-management/)
 - [Buffers and Placeholders in Agile SCRUM Project Management](https://rudolfolah.com/buffers-placeholders-agile-scrum-project-management/)
-- [Cause and Effect Diagrams](https://rudolfolah.com/cause-and-effect-diagrams/)
+- [How to use value stream mapping to improve software delivery](https://dora.dev/guides/value-stream-management/)
+- [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
 - [4 Key Managerial Activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/)
 - [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
 - [On Sizing Your Engineering Organizations](https://kellanem.com/notes/on-team-size)
 - [Staying on Top of Slack](https://www.patkua.com/blog/staying-on-top-of-slack/): setting up a good workflow in Slack with clear channel naming conventions, notification settings, and priority groups
+- [Cause and Effect Diagrams](https://rudolfolah.com/cause-and-effect-diagrams/)
+- [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
 
 # 🎧 Podcasts
 - [Effective Engineering Manager](https://www.effectiveem.com/)
