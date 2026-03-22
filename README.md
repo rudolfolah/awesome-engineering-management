@@ -41,6 +41,8 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Cause and Effect Diagrams](https://rudolfolah.com/cause-and-effect-diagrams/)
 - [4 Key Managerial Activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/)
 - [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
+- [On Sizing Your Engineering Organizations](https://kellanem.com/notes/on-team-size)
+- [Staying on Top of Slack](https://www.patkua.com/blog/staying-on-top-of-slack/): setting up a good workflow in Slack with clear channel naming conventions, notification settings, and priority groups
 
 # 🎧 Podcasts
 - [Effective Engineering Manager](https://www.effectiveem.com/)
