@@ -72,10 +72,18 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Lattice](https://lattice.com/): 1:1s, performance reviews, goals and OKRs
 - [Workleap Performance](https://workleap.com/performance): performance reviews with 360 feedback, goal setting
 - [PerformYard](https://www.performyard.com/): reviews and check-ins, goal management, continous 1:1 and team feedback
+- [Leapsome](https://www.leapsome.com/): performance reviews, 1:1s, team feedback, skill tracks and career paths
+- [small improvements](https://www.small-improvements.com/): reviews, engagement surveys, 360 feedback, goal setting
 - [Jira](https://www.atlassian.com/software/jira)
   - [Advanced Jira search with JQL (Jira Query Language)](https://support.atlassian.com/jira-software-cloud/docs/use-advanced-search-with-jira-query-language-jql/)
   - [Jira automation template library](https://www.atlassian.com/software/jira/automation-template-library#/labels/global/customLabelId/21568)
   - [Jira marketplace for extensions](https://marketplace.atlassian.com/)
+- [Odoo Appraisals](https://www.odoo.com/app/appraisals), open source ERP and CRM that includes an app for appraisals, employee evaluations and performance reviews
+- [Open HRMS](https://www.openhrms.com/employee-performance-appraisal/), open source performance management appraisal software
+- [Templates for Employee Review Spreadsheets](https://www.smartsheet.com/free-employee-performance-review-templates): 360 reviews, quarterly reviews templates for Google Docs and Sheets, Microsoft Excel and Word
+- [LinearB](https://linearb.io/): developer velocity insights
+- [Haystack](https://www.usehaystack.io/): creates delivery metrics reports from Jira and Git data
+- [GitClear](https://www.gitclear.com/): metrics on DORA stats, issues and sprints, and pull request stats for insights on developer velocity
 
 # 💬 Communities
 - [Engineering Managers Slack group](https://engmanagers.github.io/)
