@@ -9,12 +9,14 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [📬 Newsletters](#-newsletters)
 - [🏫 Courses](#-courses)
 - [⚙️ Tools](#%EF%B8%8F-tools)
+- [💬 Communities](#-communities)
 
 # 📚 Books
 - [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.amazon.ca/Effective-Executive-Definitive-Getting-Things/dp/0060833459) by Peter Drucker
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.ca/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/) by Camille Fournier
 - [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.ca/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X/) by Marty Cagan and Chris Jones
 - [How to Wow: Proven Strategies for Presenting Your Ideas, Persuading Your Audience, and Perfecting Your Image](https://www.amazon.ca/How-Wow-Strategies-Presenting-Persuading/dp/0345501780/) by Frances Cole Jones
+- [The Engineering Leader: Strategies for Scaling Teams and Yourself](https://cate.blog/book/) by Cate Huston
 - [Team Topologies: Organizing Business and Technology for Fast Flow of Value](https://www.amazon.ca/Team-Topologies-2nd-Organizing-Technology/dp/1966280009/) by Matthew Skelton and Manuel Pais
 - [Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://www.amazon.ca/Remote-Team-Interactions-Workbook-Topologies/dp/1950508617/) by Matthew Skelton and Manuel Pais
 - [Leading Effective Engineering Teams](https://www.oreilly.com/library/view/leading-effective-engineering/9781098148232/) by Addy Osmani
@@ -48,8 +50,10 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Engineering Enablement](https://getdx.com/podcast/)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 - [Dev Interrupted](https://linearb.io/dev-interrupted/podcasts)
+- [The CTO Podcast](https://www.ctopod.com/)
 
 # 📬 Newsletters
+- [Tech Manager Weekly](https://www.techmanagerweekly.com/)
 - [Software Lead Weekly](https://softwareleadweekly.com/issues/)
 - [The Engineering Manager](https://theengineeringmanager.substack.com/)
 
@@ -73,3 +77,7 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
   - [Jira automation template library](https://www.atlassian.com/software/jira/automation-template-library#/labels/global/customLabelId/21568)
   - [Jira marketplace for extensions](https://marketplace.atlassian.com/)
 
+# 💬 Communities
+- [Engineering Managers Slack group](https://engmanagers.github.io/)
+- [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+- [`#engineering-management` channel in Software Internals Discord server](https://eatonphil.com/discord.html)
