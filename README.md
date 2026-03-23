@@ -41,19 +41,31 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 - [Growth frameworks, progression, and competency matrix of various companies](https://progression.fyi/)
 
 # 📰 Articles
+
+Leadership & Management Fundamentals:
+- [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
+- [4 Key Managerial Activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/)
+
+Team Building & Org Design:
+- [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
+- [On Sizing Your Engineering Organizations](https://kellanem.com/notes/on-team-size)
+- [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
+
+Performance & Career Development:
 - [8 Alternatives to the STAR Method](https://www.evidenced.app/blog/8-alternatives-to-star-method), alternatives to STAR method (CAR, SOAR, PARLA, FAB, SAO, SHARE, DARE, CAPS)
 - [Is the 9-Box Model a Successful Performance Management Tool?](https://www.bamboohr.com/blog/9-box-grid): describes how to create a 9-box grid
 - [9 Box Grid: What Is It And Why Is It Outdated?](https://www.staffcircle.com/blogs/9-box-grid/)
+
+Goals & Strategy:
 - [Set goals with OKRs (Objectives and Key Results)](https://rework.withgoogle.com/intl/en/guides/set-goals-with-okrs)
-- [Buffers and Placeholders in Agile SCRUM Project Management](https://rudolfolah.com/buffers-placeholders-agile-scrum-project-management/)
+
+Delivery & Process:
 - [How to use value stream mapping to improve software delivery](https://dora.dev/guides/value-stream-management/)
-- [21 Rules of Thumb for Managing Software People and Teams](https://www.informit.com/articles/article.aspx?p=1984066)
-- [4 Key Managerial Activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/)
-- [How to Build a Great Software Development Team](https://builtin.com/software-engineering-perspectives/software-development-team)
-- [On Sizing Your Engineering Organizations](https://kellanem.com/notes/on-team-size)
-- [Staying on Top of Slack](https://www.patkua.com/blog/staying-on-top-of-slack/): setting up a good workflow in Slack with clear channel naming conventions, notification settings, and priority groups
+- [Buffers and Placeholders in Agile SCRUM Project Management](https://rudolfolah.com/buffers-placeholders-agile-scrum-project-management/)
 - [Cause and Effect Diagrams](https://rudolfolah.com/cause-and-effect-diagrams/)
-- [How we design our product organization with DDD and Team Topologies](https://medium.com/peaksys-engineering/how-we-design-our-product-organization-with-ddd-and-team-topologies-9002bbcb70a6)
+
+Tools & Workflows:
+- [Staying on Top of Slack](https://www.patkua.com/blog/staying-on-top-of-slack/): setting up a good workflow in Slack with clear channel naming conventions, notification settings, and priority groups
 
 # 🎧 Podcasts
 - [Effective Engineering Manager](https://www.effectiveem.com/)
