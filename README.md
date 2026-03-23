@@ -56,6 +56,9 @@ Performance & Career Development:
 - [Is the 9-Box Model a Successful Performance Management Tool?](https://www.bamboohr.com/blog/9-box-grid): describes how to create a 9-box grid
 - [9 Box Grid: What Is It And Why Is It Outdated?](https://www.staffcircle.com/blogs/9-box-grid/)
 
+Hiring & Interviewing:
+- [How to Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176): covers hiring principles and heuristics
+
 Goals & Strategy:
 - [Set goals with OKRs (Objectives and Key Results)](https://rework.withgoogle.com/intl/en/guides/set-goals-with-okrs)
 
@@ -66,6 +69,10 @@ Delivery & Process:
 
 Tools & Workflows:
 - [Staying on Top of Slack](https://www.patkua.com/blog/staying-on-top-of-slack/): setting up a good workflow in Slack with clear channel naming conventions, notification settings, and priority groups
+
+Incident Management:
+- [Incident Management Best Practices](https://incident.io/blog/incident-management-best-practices-2026)
+- [How we Manage Incidents at Datadog](https://www.datadoghq.com/blog/how-datadog-manages-incidents/)
 
 # 🎧 Podcasts
 - [Effective Engineering Manager](https://www.effectiveem.com/)
