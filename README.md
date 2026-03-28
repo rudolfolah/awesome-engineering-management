@@ -14,6 +14,7 @@ Engineering manager resources, a curated list of articles, books, frameworks, ne
 # 📚 Books
 - [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.amazon.ca/Effective-Executive-Definitive-Getting-Things/dp/0060833459) by Peter Drucker
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.ca/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/) by Camille Fournier
+- [Leadership Agility: Developing Your Repertoire of Leadership Styles](https://www.routledge.com/Leadership-Agility-Developing-Your-Repertoire-of-Leadership-Styles/Meyer-Meijers/p/book/9781138065109) by Ron Meyer, Ronald Meijers
 - [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.ca/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X/) by Marty Cagan and Chris Jones
 - [How to Wow: Proven Strategies for Presenting Your Ideas, Persuading Your Audience, and Perfecting Your Image](https://www.amazon.ca/How-Wow-Strategies-Presenting-Persuading/dp/0345501780/) by Frances Cole Jones
 - [The Engineering Leader: Strategies for Scaling Teams and Yourself](https://cate.blog/book/) by Cate Huston
